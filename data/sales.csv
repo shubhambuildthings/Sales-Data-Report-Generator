@@ -1,0 +1,13 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Region
+101,2026-01-05,Laptop,Electronics,2,55000,Delhi
+102,2026-01-08,Mouse,Accessories,5,500,Noida
+103,2026-01-12,Keyboard,Accessories,3,1200,Delhi
+104,2026-01-15,Monitor,Electronics,2,12000,Gurgaon
+105,2026-02-02,Laptop,Electronics,1,55000,Noida
+106,2026-02-10,Mouse,Accessories,10,500,Delhi
+107,2026-02-14,Headphones,Accessories,4,2000,Gurgaon
+108,2026-02-20,Monitor,Electronics,3,12000,Delhi
+109,2026-03-03,Keyboard,Accessories,5,1200,Noida
+110,2026-03-08,Laptop,Electronics,2,55000,Gurgaon
+111,2026-03-15,Mouse,Accessories,8,500,Delhi
+112,2026-03-21,Headphones,Accessories,6,2000,Noida
